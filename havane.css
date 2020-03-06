@@ -1,0 +1,225 @@
+body
+{
+
+background-color: rgb(200,200,200);
+margin: auto;
+margin-top:10px;
+margin-bottom:20px;
+padding-left: 20px;
+padding-right: 20px;
+height: 500px;
+}
+.titre
+{
+width: 100%;
+height:200px;
+border: 5px inset;
+border-radius: 3%;
+margin-bottom:5px;
+font-size:50px;
+color: black;
+text-align: center;
+position: relative;
+background-color: rgb(255,255,255);
+font-weight: bold;
+
+}
+.slogan{
+text-align:center;
+font-size:30px;
+color:green;
+font-style:italic;
+}
+.intro
+{
+border:none;
+background-color:none;
+}
+
+th
+{
+ border: 1px solid black;
+ border-radius:5px;
+ padding: 7px 10px;
+ margin-right:5px;
+ background-color: white;
+ 
+}
+.etat
+{
+width:80%;
+position: center;
+margin-bottom: 0px;
+height:45px;
+margin-left: 130px;
+
+}
+.logo
+{
+width: 900px;
+height: 270px;
+}
+.cellules
+{
+text-decoration:none;
+color:white;
+}
+a:hover{
+text-decoration: underline;
+font-size:20px;
+}
+li{
+text-decoration:none;
+text-align:center;
+border:1px solid;
+padding:4px 7px;
+margin-right: 3px;
+border-radius:3px;
+font-size:20px;
+color:white;
+background-color:teal;
+}
+nav,ul,li
+{
+text-decoration:none;
+float:right;
+list-style:none;
+margin-bottom:10px;
+}
+#ens{
+float:right;
+border: 1px solid blue;
+border-radius:3%;
+padding:5px 0px;
+margin-top:30px;
+margin-right:25%;
+height:900px;
+width:650px;
+}
+.consours{
+text-align:justify;
+font-size:20px;
+
+}
+.plan{
+display:block;
+position:center;
+}
+#bloc{
+position:relative;
+margin-left:80px;
+margin-top:20px;
+}
+.hymne{
+float: right;
+width:500px;
+height:300;
+margin-right:20px;
+}
+.histo{
+margin-top:30px;
+border: 1px solid blue;
+border-radius:3%;
+float:left;
+width:650px;
+height:800px;
+margin-left:20px;
+padding:0px 10px;
+}
+article
+{
+text-align:center;
+width:550px;
+height:400px;
+padding:10px;
+margin-bottom:30px;
+}
+.imaudio{
+width: auto;
+height:400px;
+}
+.liste{
+background-color: none;
+float:none;
+border:none;
+}
+header{
+font-size:20px;
+font-family:"verdana", serif;
+font-weight:bold;
+color:red;
+text-align:center;
+}
+p{
+font-size: 16px;
+font-family:"arial", serif;
+}
+#arti{
+text-align:justify;
+}
+.plan{
+position:center;
+}
+#formation{
+float:right;
+border: 1px solid black;
+border-radius:3%;
+width:400 px;
+height:600px;
+margin: 40px 10px;
+padding: 20px 20px;
+}
+#forma{
+float:right;
+margin-top: 60px;
+margin-bottom:50px;
+position:center;
+width:90%;
+/*height:200px;*/
+}
+h2{
+text-align:center;
+color: blue;
+}
+#campus{
+margin-top:60px;
+width:100%;
+}
+.comcam{
+text-align:center;
+font-family: "times new roman", serif;
+font-size:18px;
+font-weight:bold;
+}
+.comcom{
+text-align:center;
+font-family: "times new roman", serif;
+font-size:18px;
+font-weight:bold;
+}
+comcim{
+text-align:center;
+font-family: "times new roman", serif;
+font-size:18px;
+font-weight:bold;
+}
+.present{ margin-top:60px;text-align:justify; font-size: 18px; font-family:"arial", sans serif;}
+/*#presentation{ float:left; margin-top:30px;}*/
+#vide{
+float: right;
+margin-top: 5px;
+margin-left:10px;
+}
+#video {
+    border-bottom: 2px solid black;
+	z-index: 40}
+     
+#presentation{
+float: left;
+}
+#droite{
+margin-top: 40 px;}
+#complet{
+margin-bottom: 30px;
+
+}
